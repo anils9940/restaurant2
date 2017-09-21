@@ -1,0 +1,11 @@
+
+
+@font-face {
+	font-family: 'LDFComicSansLight';
+	src: url('LDFComicSansLight.eot');
+	src: url('LDFComicSansLight.eot?#iefix') format('embedded-opentype'),
+		url('LDFComicSansLight.woff') format('woff'),
+		url('LDFComicSansLight.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
